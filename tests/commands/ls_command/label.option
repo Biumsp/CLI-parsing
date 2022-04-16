@@ -1,1 +1,1 @@
-{"name": "label", "short_name": "l", "incompatible": ["local"]}
+{"name": "label", "short_name": "l", "incompatible": ["local"], "values":{"M": "Many options", "A": "All the files"}, "info": "select by label"}

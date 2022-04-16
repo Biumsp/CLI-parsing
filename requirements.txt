@@ -1,1 +1,0 @@
-https://github.com/Biumsp/HTTP-logging.git@main#egg=httplogging
