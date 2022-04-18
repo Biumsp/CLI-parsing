@@ -45,7 +45,7 @@ http_handler.setTelegramChatId(TELEGRAM_CHATID)
 
 # Logging settings -----------------------------------
 
-log_level = logging.INFO
+log_level = logging.DEBUG
 logging.basicConfig(format=CMDFORMAT, datefmt=DATEFORMAT, level=log_level)
 
 
